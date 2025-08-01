@@ -33,3 +33,7 @@ func version2() {
 func version3() {
 	fmt.Println("I'm from version 1.2.0")
 }
+
+func version4() {
+	fmt.Println("I'm from version 1.3.0")
+}
